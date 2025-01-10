@@ -1,0 +1,11 @@
+Check for the path of input folder of containing Images
+Output folder for saving the output images.
+Function to separate the images by storing their paths in a list [imgs_path].
+Function to read the images from the input folder which are specified in list [imgs_path] .
+Function to detect the detect faces from the image.
+Function to show the image that detected faces by img path on left side followed by a path textbox in bottom with copy path button.
+Function to show detected faces in the image on right side as tiles followed by count of faces in main image.
+Function to show upon clicking the each tile which is having the detected face and a textfield below having the autofill from the classified face names of previous faces with save button.
+Add a button in tile to save the classified faces with the name in the textfield in the folder with name classified.
+Add next and previous button to navigate through the images.
+Each classified face folder should have a text file with the name of the classified face and the paths of the images in which the face is detected.
