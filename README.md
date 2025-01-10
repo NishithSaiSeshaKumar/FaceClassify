@@ -22,7 +22,7 @@
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone [[https://github.com/NishithSaiSeshaKumar/FaceClassify.git)](https://github.com/NishithSaiSeshaKumar/FaceClassify.git))](https://github.com/NishithSaiSeshaKumar/FaceClassify.git)
+git clone https://github.com/NishithSaiSeshaKumar/FaceClassify.git
 ```
 Replace yourusername with your actual GitHub username.
 
