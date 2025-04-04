@@ -24,7 +24,6 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/NishithSaiSeshaKumar/FaceClassify.git
 ```
-Replace yourusername with your actual GitHub username.
 
 ### 2. Install Dependencies
 Install the required dependencies using either pip or conda:
