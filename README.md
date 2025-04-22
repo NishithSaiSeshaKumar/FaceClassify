@@ -111,3 +111,9 @@ Steps for contributing:
 OpenCV for computer vision and face detection.
 Tkinter for creating the user interface.
 Pillow for image manipulation and display.
+
+_______          _____ _           ____ _  _______ ____
+|  ____|__ _ ___|  ___| |__   ___ / ___| |/ / ____|  _ \
+|  __| / _` / __| |_  | '_ \ / __| |   | ' /|  _| | | | |
+|  |___ (_| \__ \  _| | | | | (__| |___| . \| |___| |_| |
+|______\__,_|___/_|   |_| |_| \___|\____|_|\_\_____|____/
